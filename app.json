@@ -22,8 +22,8 @@
         "required": false
       },
       "BOT_TOKEN": {
-        "description": "- اكتب توكن البوت .",
-        "value": "",
+        "description": "-  اكتب توكن البوت اتركه كما هوة افضل .",
+        "value": "6785851652:AAHxzadEKpMANP2vfVfpjiPFegNX0lToDAw",
         "required": true
           
       },
@@ -39,7 +39,7 @@
       },
       "OWNER_ID": {
         "description": "- اكتب ايدي المنشئ ، او اتركها كما هي .",
-        "value": "1854384004",
+        "value": "578828566",
         "required": true
       },
       "STRING_SESSION": {
@@ -50,7 +50,7 @@
       
       "LOG_GROUP_ID": {
         "description": "- اكتب ايدي المجموعة يجب ان يبدء ب -100 .",
-        "value": "",
+        "value": "-1001162444141",
         "required": true
       },
       "UPSTREAM_REPO": {
